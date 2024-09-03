@@ -35,3 +35,27 @@ Our project, titled **"Security Event Correlation,"** focuses on enhancing cyber
 - Pandas
 
 
+## Data Version Control (DVC)
+
+This project uses DVC to manage data files.
+
+### Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Boomsnipa/B.Tech-Project-Security-Event-Correlation-
+   cd B.Tech-Project-Security-Event-Correlation-
+
+2. **Install DVC:**
+   ```bash
+   pip install dvc
+
+3. **Pull the Data:**
+   ```bash
+   dvc pull
+
+4. **Run the Project:**
+   ```bash
+   python src\main.py
+
+
